@@ -1,0 +1,21 @@
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\bin\Release\ImagesVectorizer.exe.config
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\bin\Release\ImagesVectorizer.exe
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\bin\Release\ImagesVectorizer.pdb
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.csprojResolveAssemblyReference.cache
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.frmMain.resources
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.Properties.Resources.resources
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.csproj.GenerateResource.Cache
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.exe
+E:\СаША\Учеба\НГТУ\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.pdb
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\bin\Release\ImagesVectorizer.exe.config
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.exe
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.pdb
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\bin\Release\ImagesVectorizer.exe
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\bin\Release\ImagesVectorizer.pdb
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.csprojResolveAssemblyReference.cache
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.frmMain.resources
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.Properties.Resources.resources
+E:\СаША\Учеба\НГТУ\Бакалавриат\4-й семестр\Перевод растра в вектор\ImagesVectorizer\ImagesVectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.csproj.GenerateResource.Cache
+D:\Portfolio\Images-Vectorizer\ImagesVectorizer\bin\Release\ImagesVectorizer.exe.config
+D:\Portfolio\Images-Vectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.exe
+D:\Portfolio\Images-Vectorizer\ImagesVectorizer\obj\Release\ImagesVectorizer.pdb
